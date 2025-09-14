@@ -78,7 +78,7 @@ python ecg_viewer_pyqt.py
 - `add_label():` add labels to the list and visualization
 - `export_csv():` export all intervals
 
-## Credits (English)
+## Credits
 
 The original **Tkinter app** (included in the `experiments` folder of this repository) is derived from the following project:
 [https://github.com/rediet-getnet/ECG-Signal-Viewer-and-Annotation-Tool](https://github.com/rediet-getnet/ECG-Signal-Viewer-and-Annotation-Tool)
