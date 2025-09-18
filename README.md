@@ -12,6 +12,8 @@ Key components:
 - **QRS complex**: depolarization of the ventricles
 - **T-wave**: repolarization of the ventricles
 
+![Depiction of a typical ECG](image.png)
+
 ### ECG leads
 The tool supports the 6 classic **limb leads**:
 
