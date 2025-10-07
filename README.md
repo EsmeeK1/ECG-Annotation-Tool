@@ -1,6 +1,6 @@
 # README – ECG Viewer Annotation Tool
 
-## English version
+## 🇬🇧 English version
 
 ### Introduction
 This project is an **ECG Viewer and Annotation Tool** built with **PySide6** and **PyQtGraph**.
@@ -15,6 +15,8 @@ Key components:
 - **P-wave**: depolarization of the atria
 - **QRS complex**: depolarization of the ventricles
 - **T-wave**: repolarization of the ventricles
+
+![Depiction of a typical ECG](image.png)
 
 ### ECG leads
 The tool supports the 6 classic **limb leads**:
@@ -80,7 +82,7 @@ python ecg_viewer_pyqt.py
 - `add_label():` add labels to the list and visualization
 - `export_csv():` export all intervals
 
-## Credits (English)
+## Credits
 
 The original **Tkinter app** (included in the `experiments` folder of this repository) is derived from the following project:
 [https://github.com/rediet-getnet/ECG-Signal-Viewer-and-Annotation-Tool](https://github.com/rediet-getnet/ECG-Signal-Viewer-and-Annotation-Tool)
