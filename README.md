@@ -6,7 +6,7 @@
 This project is an **ECG Viewer and Annotation Tool** built with **PySide6** and **PyQtGraph**.
 The tool was developed as part of the **HeartGuard / LungInsight project**, which focuses on smart monitoring of heart and lung signals. With this app, you can load ECG data, visualize it, zoom in, select intervals, and export labels to **CSV** for further use in machine learning or research.
 
-![Current Layout of the Main Interface](image.png)
+![Current Layout of the Main Interface](main-interface)
 
 ### What is an ECG signal?
 An **electrocardiogram (ECG)** records the electrical activity of the heart over time.
@@ -16,7 +16,7 @@ Key components:
 - **QRS complex**: depolarization of the ventricles
 - **T-wave**: repolarization of the ventricles
 
-![Depiction of a typical ECG](image.png)
+![alt text](ecg-signal.png)
 
 ### ECG leads
 The tool supports the 6 classic **limb leads**:
