@@ -1,10 +1,12 @@
 # README – ECG Viewer Annotation Tool
 
-## 🇬🇧 English version
+## English version
 
 ### Introduction
 This project is an **ECG Viewer and Annotation Tool** built with **PySide6** and **PyQtGraph**.
 The tool was developed as part of the **HeartGuard / LungInsight project**, which focuses on smart monitoring of heart and lung signals. With this app, you can load ECG data, visualize it, zoom in, select intervals, and export labels to **CSV** for further use in machine learning or research.
+
+![Current Layout of the Main Interface](image.png)
 
 ### What is an ECG signal?
 An **electrocardiogram (ECG)** records the electrical activity of the heart over time.
