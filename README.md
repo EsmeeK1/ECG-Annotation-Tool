@@ -1,6 +1,6 @@
 # README – ECG Viewer Annotation Tool
 
-## 🇬🇧 English version
+## English version
 
 ### Introduction
 This project is an **ECG Viewer and Annotation Tool** built with **PySide6** and **PyQtGraph**.
